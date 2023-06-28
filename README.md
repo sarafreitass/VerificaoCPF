@@ -1,5 +1,6 @@
 # Verifica-o-de-CPF
-algoritmo que verifica a validade de um CPF
+Algoritmo que verifica a validade de um CPF, feito durante um curso de Phyton de conhecimentos iniciais.
+
 CPF= abc.def.ghi-jk
 
 PRIMEIRA PARTE                         SEGUNDA PARTE
